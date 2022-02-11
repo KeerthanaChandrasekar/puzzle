@@ -1,6 +1,6 @@
-# puzzle
+# Fluzzle
 
-A new Flutter project.
+A new Flutter hackathon project
 
 ## Getting Started
 
